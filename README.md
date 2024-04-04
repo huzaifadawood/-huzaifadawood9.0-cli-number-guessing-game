@@ -1,2 +1,2 @@
-# -huzaifadawood9.0-cli-number-guessing-game
-This is cli based number guessing game
+# cli-number-guessing-game
+This is cli based numbers guessing game
